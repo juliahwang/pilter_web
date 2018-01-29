@@ -1,0 +1,5 @@
+Django==1.10
+wheel==0.30.0
+gunicorn==19.7.1
+psycopg2==2.7.3.2
+Pillow==5.0.0
