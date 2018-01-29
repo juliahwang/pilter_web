@@ -1,11 +1,13 @@
 ### Custom ###
-static/
-.config_secret/
+django_app/static/
+django_app/.config_secret/
 .travis.yml
 start.sh
 .*.swp
 .idea/
-
+django_app/app.yaml
+django_app/cloud_sql_proxy
+django_app/.dockerignore
 
 # Created by https://www.gitignore.io/api/vim,macos,python,pycharm,virtualenv
 
